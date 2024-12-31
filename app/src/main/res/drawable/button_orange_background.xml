@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<button_orange_background xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:state_pressed="true">
+            <shape android:shape="rectangle">
+                <solid android:color="#FF9800" /> <!-- Màu cam khi nhấn -->
+                <corners android:radius="8dp" />  <!-- Bo góc -->
+            </shape>
+        </item>
+        <item>
+            <shape android:shape="rectangle">
+                <solid android:color="#FFA726" /> <!-- Màu cam mặc định -->
+                <corners android:radius="8dp" />  <!-- Bo góc -->
+            </shape>
+        </item>
+</button_orange_background>

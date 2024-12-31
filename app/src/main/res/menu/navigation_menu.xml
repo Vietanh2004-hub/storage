@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_trang_chu"
+        android:icon="@drawable/ic_trangchu"
+        android:title="Trang chủ" />
+    <item
+        android:id="@+id/nav_nhap_hang"
+        android:icon="@drawable/ic_nhaphang"
+        android:title="Nhập Hàng" />
+    <item
+        android:id="@+id/nav_xuat_hang"
+        android:icon="@drawable/ic_xuathang"
+        android:title="Xuất Hàng" />
+    <item
+        android:id="@+id/nav_hang_hoa"
+        android:icon="@drawable/ic_hanghoa"
+        android:title="Hàng Hóa" />
+    <item
+        android:id="@+id/nav_thong_ke"
+        android:icon="@drawable/ic_thongke"
+        android:title="Thống Kê" />
+    </group>
+
+    <group android:checkableBehavior="none">
+    <item
+        android:id="@+id/nav_cai_dat"
+        android:icon="@drawable/ic_caidat"
+        android:title="Cài đặt" />
+    <item
+        android:id="@+id/nav_danh_gia"
+        android:icon="@drawable/ic_rate"
+        android:title="Đánh giá" />
+    <item
+        android:id="@+id/nav_chia_se"
+        android:icon="@drawable/ic_share"
+        android:title="Chia sẻ" />
+    <item
+        android:id="@+id/nav_thong_tin"
+        android:icon="@drawable/ic_info"
+        android:title="Thông tin liên hệ" />
+    </group>
+</menu>

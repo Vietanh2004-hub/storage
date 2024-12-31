@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quản lý kho</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="next_button_description">Chuyển sang trang tiếp theo</string>
+    <string name="navigation_drawer_open">Mở menu điều hướng</string>
+    <string name="navigation_drawer_close">Đóng menu điều hướng</string>
+    <string-array name="product_categories">
+        <item>Tất cả</item>
+        <item>Thực phẩm</item>
+        <item>Đồ gia dụng</item>
+        <item>Thời trang</item>
+        <item>Khác</item>
+    </string-array>
+</resources>
